@@ -1,8 +1,8 @@
 // --- RESUMO DE MÉTODOS E PROPRIEDADES ESTUDADOS EM JS ---
 
 // 1. length - tamanho de string ou array
-let arr = [1, 2, 3];
-console.log(arr.length); // 3
+let array = [1, 2, 3];
+console.log(array.length); // 3
 
 let texto = "Olá";
 console.log(texto.length); // 3
