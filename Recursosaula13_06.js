@@ -1,4 +1,4 @@
-// --- RESUMO DE MÉTODOS E PROPRIEDADES EM JS ---
+// --- RESUMO DE MÉTODOS E PROPRIEDADES ESTUDADOS EM JS ---
 
 // 1. length - tamanho de string ou array
 let arr = [1, 2, 3];
@@ -20,7 +20,7 @@ let texto2 = "  Olá mundo  ";
 console.log(texto2.trim()); // "Olá mundo"
 
 // 5. includes() - verifica se string ou array contém valor
-let frase = "Eu gosto de JS";
+let frase = "Eu gosto de JS e de comer berga no intervalo.";
 console.log(frase.includes("gosto")); // true
 
 let frutas = ["maçã", "banana"];
