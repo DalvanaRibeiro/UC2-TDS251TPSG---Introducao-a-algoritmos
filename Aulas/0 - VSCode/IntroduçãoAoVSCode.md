@@ -46,5 +46,8 @@ O VSCode é uma excelente ferramenta para qualquer programador. Com ele, você p
 
 Se tiver dúvidas, não hesite em perguntar! Estamos aqui para te ajudar. 😉
 
-Até mais e bons estudos! 👩‍💻👨‍💻
+Até mais e bons estudos! 👩‍💻👨‍💻 
+<div align="right">
+    <img src="https://entail.jit.io/en-assets/jit/fit-in/515x325/644e678fa0c93f0bb6908c64_vscode20meme-1694627928604.png" width="300"/>
+</div>
 
